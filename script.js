@@ -1,4 +1,4 @@
-const apiKey = "d41b8389907a2e2ba51796a48b9e87cf";
+const apiKey = "apikeyremoveduetosecuritymeasure";
 const cityInput = document.querySelector('.city-input');
 const searchButton = document.querySelector('.search-btn');
 const weatherBox = document.querySelector('.weather-info');
